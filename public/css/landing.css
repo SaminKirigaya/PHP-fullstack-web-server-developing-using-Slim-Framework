@@ -1,0 +1,946 @@
+.bgdes{
+    background-color: #2efaca;
+    font-family: 'Bruno Ace SC', cursive;
+    font-size: 1rem;
+    width :100vw;
+    position: sticky;
+    top:0%;
+}
+body{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.dessecond{
+    height : 50vh;
+    width: 100vw;
+    margin: 0;
+    margin-bottom:0;
+    padding:0;
+    background-color: rgb(255, 255, 255);
+}
+
+
+
+.wave3{
+    height : 20vh;
+    width: 100vw;
+    margin: 0;
+    padding:0;
+    background-color: rgb(182, 45, 45);
+}
+
+
+
+
+@media (min-width:1366px) and (max-width:1439px){
+
+    .cp{
+        width: 100vw;
+        display: block;
+        position: absolute;
+        top:220%;
+        background-color: #2a2a2a;
+        height: 10%;
+        left: 0%;
+        color: white;
+    }
+    
+
+
+    .serv{
+        width: 100vw;
+        display: block;
+        text-align: center;
+        height: 10vh;
+        margin-top: 4rem;
+        /* border-style: solid; */
+        font-size: 2rem;
+        font-family: 'Bruno Ace SC';
+    }
+    
+    .navbar-expand-lg .navbar-nav {
+        display: flex!important;
+        flex-basis: auto;
+        margin-left: 12rem;
+    }
+    .padclass{
+        padding-right :1rem;
+    }
+    .padclass2{
+        padding-left: 25rem;
+        padding-right:0rem;
+    }
+    .padclass3{
+        padding-left: 18rem;
+        padding-right:0rem;
+    }
+    .padclass4{
+        padding-left: 1rem;
+
+    }
+    .wave2{
+        display:block;
+        height : 15vh;
+        width: 100vw;
+        margin: 0;
+        padding:0;
+        background-color: rgb(255, 255, 255);
+        text-align: center;
+        justify-content: center;
+        font-size: 3rem;
+        font-family:'Bruno Ace SC', cursive;
+        padding: 1.5rem;
+    
+    }
+
+    .rowwid{
+        width:20rem !important;
+        margin-left: 31rem !important;
+    }
+
+    
+
+}
+
+@media (min-width:1440px) and (max-width:1535px){
+
+    .cp{
+        width: 100vw;
+        display: block;
+        position: absolute;
+        top: 211%;
+        background-color: #2a2a2a;
+        height: 10%;
+        left: 0%;
+        color: white;
+    }
+    
+    .serv{
+        width: 100vw;
+        display: block;
+        text-align: center;
+        height: 10vh;
+        margin-top: 4rem;
+        /* border-style: solid; */
+        font-size: 2rem;
+        font-family: 'Bruno Ace SC';
+    }
+    
+    .navbar-expand-lg .navbar-nav {
+        display: flex!important;
+        flex-basis: auto;
+        margin-left: 12rem;
+    }
+    .padclass{
+        padding-right :1rem;
+    }
+    .padclass2{
+        padding-left: 30rem;
+        padding-right:0rem;
+    }
+    .padclass3{
+        padding-left: 22rem;
+        padding-right:0rem;
+    }
+    .padclass4{
+        padding-left: 1rem;
+
+    }
+    .wave2{
+        display:block;
+        height : 15vh;
+        width: 100vw;
+        margin: 0;
+        padding:0;
+        background-color: rgb(255, 255, 255);
+        text-align: center;
+        justify-content: center;
+        font-size: 3rem;
+        font-family:'Bruno Ace SC', cursive;
+        padding: 1.5rem;
+    
+    }
+
+    .rowwid{
+        width:20rem !important;
+        margin-left: 35rem !important;
+    }
+
+
+
+}
+
+@media (min-width:1536px) and (max-width: 1919px){
+    .cp{
+        width: 100vw;
+        display: block;
+        position: absolute;
+        top: 219%;
+        background-color: #2a2a2a;
+        height: 10%;
+        left: 0%;
+        color: white;
+    }
+    
+
+    .serv{
+        width: 100vw;
+        display: block;
+        text-align: center;
+        height: 10vh;
+        margin-top: 4rem;
+        /* border-style: solid; */
+        font-size: 2rem;
+        font-family: 'Bruno Ace SC';
+    }
+    
+
+    .navbar-expand-lg .navbar-nav {
+        display: flex!important;
+        flex-basis: auto;
+        margin-left: 12rem;
+    }
+    .padclass{
+        padding-right :1rem;
+    }
+    .padclass2{
+        padding-left: 30rem;
+        padding-right:0rem;
+    }
+    .padclass3{
+        padding-left: 25rem;
+        padding-right:0rem;
+    }
+    .padclass4{
+        padding-left: 1rem;
+
+    }
+    .wave2{
+        display:block;
+        height : 15vh;
+        width: 100vw;
+        margin: 0;
+        padding:0;
+        background-color: rgb(255, 255, 255);
+        text-align: center;
+        justify-content: center;
+        font-size: 4rem;
+        font-family:'Bruno Ace SC', cursive;
+        padding: 1.5rem;
+    
+    }
+    .rowwid{
+        width:20rem !important;
+        margin-left: 39rem !important;
+    }
+
+}
+
+@media (min-width:1920px) and (max-width: 8000px){
+
+    .cp{
+        width: 100vw;
+        display: block;
+        position: absolute;
+        top: 215%;
+        background-color: #2a2a2a;
+        height: 10%;
+        left: 0%;
+        color: white;
+    }
+    
+
+    .serv{
+        width: 100vw;
+        display: block;
+        text-align: center;
+        height: 10vh;
+        margin-top: 4rem;
+        /* border-style: solid; */
+        font-size: 2rem;
+        font-family: 'Bruno Ace SC';
+    }
+    
+
+    .navbar-expand-lg .navbar-nav {
+        display: flex!important;
+        flex-basis: auto;
+        margin-left: 12rem;
+    }
+    
+    .padclass{
+        padding-right :1rem;
+    }
+    .padclass2{
+        padding-left: 55rem;
+        padding-right:0rem;
+    }
+    .padclass3{
+        padding-left: 50rem;
+        padding-right:0rem;
+    }
+    .padclass4{
+        padding-left: 1rem;
+
+    }
+    .wave2{
+        display:block;
+        height : 15vh;
+        width: 100vw;
+        margin: 0;
+        padding:0;
+        background-color: rgb(255, 255, 255);
+        text-align: center;
+        justify-content: center;
+        font-size: 4rem;
+        font-family:'Bruno Ace SC', cursive;
+        padding: 1.5rem;
+    
+    }
+
+    .rowwid{
+        width:20rem !important;
+        margin-left: 50rem !important;
+    }
+
+}
+
+
+
+@media (min-width:1280px) and (max-width:1365px){
+    .cp{
+        width: 100vw;
+        display: block;
+        position: absolute;
+        top: 221%;
+        background-color: #2a2a2a;
+        height: 10%;
+        left: 0%;
+        color: white;
+    }
+    
+    .serv{
+        width: 100vw;
+        display: block;
+        text-align: center;
+        height: 10vh;
+        margin-top: 4rem;
+        /* border-style: solid; */
+        font-size: 2rem;
+        font-family: 'Bruno Ace SC';
+    }
+    
+    .navbar-expand-lg .navbar-nav {
+        display: flex!important;
+        flex-basis: auto;
+        margin-left: 12rem;
+    }
+
+    .padclass{
+        padding-right :1rem;
+    }
+    .padclass2{
+        padding-left: 20rem;
+        padding-right:0rem;
+    }
+    .padclass3{
+        padding-left: 13rem;
+        padding-right:0rem;
+    }
+    .padclass4{
+        padding-left: 1rem;
+
+    }
+    .wave2{
+        display:block;
+        height : 15vh;
+        width: 100vw;
+        margin: 0;
+        padding:0;
+        background-color: rgb(255, 255, 255);
+        text-align: center;
+        justify-content: center;
+        font-size: 3rem;
+        font-family:'Bruno Ace SC', cursive;
+        padding: 1.5rem;
+    
+    }
+    .rowwid{
+        width:20rem !important;
+        margin-left: 28rem !important;
+    }
+
+    
+}
+
+
+@media (min-width:1024px) and (max-width:1279px){
+
+    .cp{
+        width: 100vw;
+        display: block;
+        position: absolute;
+        top: 200%;
+        background-color: #2a2a2a;
+        height: 10%;
+        left: 0%;
+        color: white;
+    }
+    
+    .serv{
+        width: 100vw;
+        display: block;
+        text-align: center;
+        height: 10vh;
+        margin-top: 4rem;
+        /* border-style: solid; */
+        font-size: 2rem;
+        font-family: 'Bruno Ace SC';
+    }
+    
+    .navbar-expand-lg .navbar-nav {
+        display: flex!important;
+        flex-basis: auto;
+        margin-left: 6rem;
+    }
+    .padclass{
+        padding-right :1rem;
+    }
+    .padclass2{
+        padding-left: 11rem;
+        padding-right:0rem;
+    }
+    .padclass3{
+        padding-left: 3rem;
+        padding-right:0rem;
+    }
+    .padclass4{
+        padding-left: 1rem;
+
+    }
+    .wave2{
+        display:block;
+        height : 15vh;
+        width: 100vw;
+        margin: 0;
+        padding:0;
+        background-color: rgb(255, 255, 255);
+        text-align: center;
+        justify-content: center;
+        font-size: 2rem;
+        font-family:'Bruno Ace SC', cursive;
+        padding: 2rem;
+    
+    }
+    .rowwid{
+        width:20rem !important;
+        margin-left: 20rem !important;
+    }
+    
+}
+
+
+
+@media (min-width:200px) and (max-width:400px){
+    .cp{
+        width: 100vw;
+        display: block;
+        position: absolute;
+        top: 137%;
+        background-color: #2a2a2a;
+        height: 10%;
+        left: 0%;
+        color: white;
+    }
+    
+
+    .serv{
+        width: 100vw;
+        display: block;
+        text-align: center;
+        height: 10vh;
+        margin-top: 4rem;
+        /* border-style: solid; */
+        font-size: 1.5rem;
+        font-family: 'Bruno Ace SC';
+    }
+    
+    .padclass{
+        text-align: center;
+        border-bottom:white;
+        border-style: solid;
+        border-top: none;
+        border-left: none;
+        border-right:none;
+        border-width: 0.1rem;
+    }
+    .padclass2{
+        text-align: center;
+        border-bottom:white;
+        border-style: solid;
+        border-top: none;
+        border-left: none;
+        border-right:none;
+        border-width: 0.1rem;
+
+    }
+    .padclass3{
+
+        text-align: center;
+        border-bottom:white;
+        border-style: solid;
+        border-top: none;
+        border-left: none;
+        border-right:none;
+        border-width: 0.1rem;
+    }
+    .padclass4{
+        text-align: center;
+        border-bottom:white;
+        border-style: solid;
+        border-top: none;
+        border-left: none;
+        border-right:none;
+        border-width: 0.1rem;
+    
+
+    }
+    .wave2{
+        display:block;
+        height : 15vh;
+        width: 100vw;
+        margin: 0;
+        padding:0;
+        background-color: rgb(255, 255, 255);
+        text-align: center;
+        justify-content: center;
+        font-size: 1.5rem;
+        font-family:'Bruno Ace SC', cursive;
+    
+    }
+    .rowwid{
+        width: 15rem !important;
+        margin-left: 3rem !important;
+    }
+
+}
+
+@media (min-width:401px) and (max-width:539px){
+
+    .cp{
+        width: 100vw;
+        display: block;
+        position: absolute;
+        top: 137%;
+        background-color: #2a2a2a;
+        height: 10%;
+        left: 0%;
+        color: white;
+    }
+    
+    .serv{
+        width: 100vw;
+        display: block;
+        text-align: center;
+        height: 10vh;
+        margin-top: 4rem;
+        /* border-style: solid; */
+        font-size: 1.5rem;
+        font-family: 'Bruno Ace SC';
+    }
+    
+    .padclass{
+        text-align: center;
+        border-bottom:white;
+        border-style: solid;
+        border-top: none;
+        border-left: none;
+        border-right:none;
+        border-width: 0.1rem;
+    }
+    .padclass2{
+        text-align: center;
+        border-bottom:white;
+        border-style: solid;
+        border-top: none;
+        border-left: none;
+        border-right:none;
+        border-width: 0.1rem;
+
+    }
+    .padclass3{
+
+        text-align: center;
+        border-bottom:white;
+        border-style: solid;
+        border-top: none;
+        border-left: none;
+        border-right:none;
+        border-width: 0.1rem;
+    }
+    .padclass4{
+        text-align: center;
+        border-bottom:white;
+        border-style: solid;
+        border-top: none;
+        border-left: none;
+        border-right:none;
+        border-width: 0.1rem;
+    
+
+    }
+    .wave2{
+        display:block;
+        height : 15vh;
+        width: 100vw;
+        margin: 0;
+        padding:0;
+        background-color: rgb(255, 255, 255);
+        text-align: center;
+        justify-content: center;
+        font-size: 1.5rem;
+        font-family:'Bruno Ace SC', cursive;
+    
+    }
+    .rowwid{
+        width: 15rem !important;
+        margin-left: 4rem !important;
+    }
+
+
+}
+
+@media (min-width:540px) and (max-width:767px){
+
+    .cp{
+        width: 100vw;
+        display: block;
+        position: absolute;
+        top: 150%;
+        background-color: #2a2a2a;
+        height: 10%;
+        left: 0%;
+        color: white;
+    }
+    
+
+    .serv{
+        width: 100vw;
+        display: block;
+        text-align: center;
+        height: 10vh;
+        margin-top: 4rem;
+        /* border-style: solid; */
+        font-size: 1.5rem;
+        font-family: 'Bruno Ace SC';
+    }
+    
+    .padclass{
+        text-align: center;
+        border-bottom:white;
+        border-style: solid;
+        border-top: none;
+        border-left: none;
+        border-right:none;
+        border-width: 0.1rem;
+    }
+    .padclass2{
+        text-align: center;
+        border-bottom:white;
+        border-style: solid;
+        border-top: none;
+        border-left: none;
+        border-right:none;
+        border-width: 0.1rem;
+
+    }
+    .padclass3{
+
+        text-align: center;
+        border-bottom:white;
+        border-style: solid;
+        border-top: none;
+        border-left: none;
+        border-right:none;
+        border-width: 0.1rem;
+    }
+    .padclass4{
+        text-align: center;
+        border-bottom:white;
+        border-style: solid;
+        border-top: none;
+        border-left: none;
+        border-right:none;
+        border-width: 0.1rem;
+    
+
+    }
+    .wave2{
+        display:block;
+        height : 15vh;
+        width: 100vw;
+        margin: 0;
+        padding:0;
+        background-color: rgb(255, 255, 255);
+        text-align: center;
+        justify-content: center;
+        font-size: 1.5rem;
+        font-family:'Bruno Ace SC', cursive;
+    
+    }
+    .rowwid{
+        width: 15rem !important;
+        margin-left: 8rem !important;
+    }
+
+
+}
+
+@media (min-width:768px) and (max-width:819px){
+
+    .cp{
+        width: 100vw;
+        display: block;
+        position: absolute;
+        top: 150%;
+        background-color: #2a2a2a;
+        height: 10%;
+        left: 0%;
+        color: white;
+    }
+    
+
+    .serv{
+        width: 100vw;
+        display: block;
+        text-align: center;
+        height: 10vh;
+        margin-top: 4rem;
+        /* border-style: solid; */
+        font-size: 1.5rem;
+        font-family: 'Bruno Ace SC';
+    }
+    .rowwid{
+        width: 15rem !important;
+        margin-left: 15rem !important;
+    }
+    
+    .padclass{
+        text-align: center;
+        border-bottom:white;
+        border-style: solid;
+        border-top: none;
+        border-left: none;
+        border-right:none;
+        border-width: 0.1rem;
+    }
+    .padclass2{
+        text-align: center;
+        border-bottom:white;
+        border-style: solid;
+        border-top: none;
+        border-left: none;
+        border-right:none;
+        border-width: 0.1rem;
+
+    }
+    .padclass3{
+
+        text-align: center;
+        border-bottom:white;
+        border-style: solid;
+        border-top: none;
+        border-left: none;
+        border-right:none;
+        border-width: 0.1rem;
+    }
+    .padclass4{
+        text-align: center;
+        border-bottom:white;
+        border-style: solid;
+        border-top: none;
+        border-left: none;
+        border-right:none;
+        border-width: 0.1rem;
+    
+
+    }
+    .wave2{
+        display:block;
+        height : 15vh;
+        width: 100vw;
+        margin: 0;
+        padding:0;
+        background-color: rgb(255, 255, 255);
+        text-align: center;
+        justify-content: center;
+        font-size: 1.5rem;
+        font-family:'Bruno Ace SC', cursive;
+    
+    }
+
+}
+
+
+@media (min-width:820px) and (max-width:1023px){
+
+    .cp{
+        width: 100vw;
+        display: block;
+        position: absolute;
+        top: 137%;
+        background-color: #2a2a2a;
+        height: 10%;
+        left: 0%;
+        color: white;
+    }
+    
+
+    .serv{
+        width: 100vw;
+        display: block;
+        text-align: center;
+        height: 10vh;
+        margin-top: 4rem;
+        /* border-style: solid; */
+        font-size: 1.5rem;
+        font-family: 'Bruno Ace SC';
+    }
+    .rowwid{
+        width: 15rem !important;
+        margin-left: 17rem !important;
+    }
+    
+    .padclass{
+        text-align: center;
+        border-bottom:white;
+        border-style: solid;
+        border-top: none;
+        border-left: none;
+        border-right:none;
+        border-width: 0.1rem;
+    }
+    .padclass2{
+        text-align: center;
+        border-bottom:white;
+        border-style: solid;
+        border-top: none;
+        border-left: none;
+        border-right:none;
+        border-width: 0.1rem;
+
+    }
+    .padclass3{
+
+        text-align: center;
+        border-bottom:white;
+        border-style: solid;
+        border-top: none;
+        border-left: none;
+        border-right:none;
+        border-width: 0.1rem;
+    }
+    .padclass4{
+        text-align: center;
+        border-bottom:white;
+        border-style: solid;
+        border-top: none;
+        border-left: none;
+        border-right:none;
+        border-width: 0.1rem;
+    
+
+    }
+    .wave2{
+        display:block;
+        height : 15vh;
+        width: 100vw;
+        margin: 0;
+        padding:0;
+        background-color: rgb(255, 255, 255);
+        text-align: center;
+        justify-content: center;
+        font-size: 1.5rem;
+        font-family:'Bruno Ace SC', cursive;
+    
+    }
+
+
+}
+
+.services{
+    display:block;
+    position:absolute;
+    background-image : url('/public/img/bg1.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    width:100vw;
+    min-height:100vh !important;
+    box-sizing: border-box;
+    padding-bottom : 2rem;
+    overflow : scroll;
+    transform: translateX(-100%);
+    opacity : 0;
+    transition: all 1s ease-in-out;
+    margin-bottom: 5rem;
+
+}
+
+.slid{
+
+    transform: translateX(0%);
+    opacity : 1;
+
+}
+
+
+.pborder {
+    border-style : solid;
+    border-width : 0.2rem;
+    border-radius : 0.5rem;
+}
+
+.carddes{
+    background-color: #afffec;
+    border-radius: 0.5rem;
+    
+}
+
+.btdes{
+    --bs-btn-padding-x: 0.3rem;
+    --bs-btn-padding-y: 0.1rem;
+    --bs-btn-hover-bg: #00b551;
+    --bs-btn-bg: #15bd8e;
+
+}
+
+.titldes{
+    font-family:'Bruno Ace SC', cursive;
+}
+
+
+
+
+.alrtdes{
+    border: none !important;
+    background-color: transparent !important;
+    position:absolute !important;
+    right:25px !important;
+}
+
+.viewpro{
+    color: rgb(34, 77, 0);
+    text-decoration: none;
+    border : 0.1rem;
+    border-style: solid;
+    border-color: rgb(34,77,0);
+    border-width: 0.2rem;
+    
+    border-radius: 0.3rem;
+    padding-left: 0.4rem ;
+    padding-right: 0.5rem;
+    font-size : 0.8rem
+}
