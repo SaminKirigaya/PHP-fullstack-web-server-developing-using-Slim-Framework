@@ -29,3 +29,6 @@ https://localhost change it to your domain name like :
 https://www.something.com (If you are hosting in a cpanel or any server).
 
 - Specially, check navbar links for adjustment if you see any https://localhost 
+
+Make sure to import the sql file that I provided in your database and name config setup of database according the mysqli_connect( ).
+
